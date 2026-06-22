@@ -1,5 +1,5 @@
 ﻿<resources>
-    <string name="app_name">GameNative</string>
+    <string name="app_name">Frame</string>
     <string name="login_user">Inicio de sesión</string>
     <string name="login_2fa">Autenticación de dos factores</string>
     <string name="home">Inicio</string>
@@ -970,9 +970,9 @@
     <string name="settings_info_source_title">Código fuente</string>
     <string name="settings_info_source_subtitle">Ve el código fuente de este proyecto.</string>
     <string name="settings_info_libraries_title">Librerías utilizadas</string>
-    <string name="settings_info_libraries_subtitle">Descubre qué tecnologías hacen posible GameNative.</string>
+    <string name="settings_info_libraries_subtitle">Descubre qué tecnologías hacen posible Frame.</string>
     <string name="settings_info_privacy_title">Política de privacidad</string>
-    <string name="settings_info_privacy_subtitle">Abre un enlace a la política de privacidad de GameNative.</string>
+    <string name="settings_info_privacy_subtitle">Abre un enlace a la política de privacidad de Frame.</string>
     <string name="settings_info_usage_analytics_title">Análisis de uso</string>
     <string name="settings_info_usage_analytics_subtitle">Nunca rastreamos información personal. Al desactivar esto se detienen los análisis no esenciales, sin embargo los datos de rendimiento de juegos se siguen recopilando como interés legítimo para mejorar la compatibilidad.</string>
 
@@ -1002,7 +1002,7 @@
     <string name="settings_downloads_title">Descargas</string>
 
     <!-- Login Screen -->
-    <string name="login_app_name">GameNative</string>
+    <string name="login_app_name">Frame</string>
     <string name="login_privacy_policy">Política de privacidad</string>
     <string name="login_welcome_back">¡Bienvenido de nuevo!</string>
     <string name="login_subtitle">Inicia sesión para acceder a tu biblioteca de Steam.</string>
@@ -1080,11 +1080,11 @@
     <!-- PluviaMain: Crash & Support -->
     <string name="main_recent_crash_title">Fallo reciente</string>
     <string name="main_recent_crash_message">¡Lo sentimos!\nSería de gran ayuda conocer el problema reciente que has tenido.\nPuedes ver y exportar el registro del fallo más reciente en los ajustes de la aplicación y adjuntarlo como un \'issue\' de GitHub en el repositorio del proyecto.\n¡El enlace al repositorio de GitHub también está en los ajustes!</string>
-    <string name="main_thank_you_title">¡Gracias por usar GameNative!</string>
+    <string name="main_thank_you_title">¡Gracias por usar Frame!</string>
     <string name="main_thank_you_message">Apoya el proyecto de código abierto para juegos de PC en Android compartiendo la aplicación con tus amigos o haciéndote miembro en Ko-fi.</string>
     <string name="main_join_kofi">Apoyar en Ko-fi</string>
     <string name="main_share">Compartir</string>
-    <string name="main_share_text">Descubre GameNative: juega a tus juegos Steam de PC en Android, con soporte completo de guardados en la nube.\nhttps://gamenative.app\nÚnete a la comunidad: https://discord.gg/2hKv4VfZfE</string>
+    <string name="main_share_text">Descubre Frame: juega a tus juegos Steam de PC en Android, con soporte completo de guardados en la nube.\nhttps://gamenative.app\nÚnete a la comunidad: https://discord.gg/2hKv4VfZfE</string>
     <string name="main_discord_support_title">¿Ha funcionado el juego?</string>
     <string name="main_discord_support_message">Únete a nuestro Discord para obtener ayuda, solucionar problemas con tu juego o mejorar el rendimiento.</string>
     <string name="main_open_discord">Abrir Discord</string>
@@ -1366,7 +1366,7 @@
     <string name="wine_proton_install_failed">Error al instalar: %s.</string>
     <string name="wine_proton_install_error">Error de instalación: %s.</string>
     <string name="wine_proton_install_success">%1$s %2$s instalado correctamente.</string>
-    <string name="wine_proton_glibc_incompatible">Esta compilación de Wine/Proton requiere contenedores GLIBC y no es compatible con GameNative. Usa únicamente compilaciones ARM64/bionic.</string>
+    <string name="wine_proton_glibc_incompatible">Esta compilación de Wine/Proton requiere contenedores GLIBC y no es compatible con Frame. Usa únicamente compilaciones ARM64/bionic.</string>
     <string name="wine_proton_containers_in_use">Contenedores que usan esta versión:</string>
     <string name="wine_proton_no_containers_warning">Ningún contenedor está usando esta versión actualmente.</string>
     <string name="wine_proton_containers_will_break">Estos contenedores dejarán de funcionar si continúas:</string>
@@ -1451,7 +1451,7 @@
     <!-- Recommendations -->
     <string name="recommended_badge">Recomendado</string>
     <string name="recommended_buy_button">Ver juego</string>
-    <string name="recommended_support_message">Comprar a través de este enlace ayuda a apoyar el desarrollo de GameNative.</string>
+    <string name="recommended_support_message">Comprar a través de este enlace ayuda a apoyar el desarrollo de Frame.</string>
     <string name="recommended_about_heading">Sobre este juego</string>
     <string name="recommended_review_count">Basado en %1$s reseñas</string>
     <string name="review_overwhelmingly_positive">Abrumadoramente positivo</string>
@@ -1461,7 +1461,7 @@
     <string name="review_mostly_negative">Mayormente negativo</string>
     <string name="review_overwhelmingly_negative">Abrumadoramente negativo</string>
     <string name="settings_interface_show_recommendations_title">Mostrar recomendaciones de juegos</string>
-    <string name="settings_interface_show_recommendations_subtitle">Muestra juegos indie seleccionados en tu biblioteca. Mantenerlo activado ayuda a apoyar a los desarrolladores indie y a GameNative.</string>
+    <string name="settings_interface_show_recommendations_subtitle">Muestra juegos indie seleccionados en tu biblioteca. Mantenerlo activado ayuda a apoyar a los desarrolladores indie y a Frame.</string>
      <string name="steam_save_export_success">Partidas guardadas exportadas</string>
      <string name="steam_save_export_no_saves_found">No se encontraron partidas guardadas</string>
      <string name="steam_save_export_failed">Error al exportar partidas: %s</string>

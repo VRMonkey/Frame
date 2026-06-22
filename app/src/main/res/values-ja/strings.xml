@@ -1,5 +1,5 @@
 ﻿<resources>
-    <string name="app_name">GameNative</string>
+    <string name="app_name">Frame</string>
     <string name="login_user">ユーザーログイン</string>
     <string name="login_2fa">ツーファクター</string>
     <string name="home">ホーム</string>
@@ -939,9 +939,9 @@
     <string name="settings_info_source_title">ソースコード</string>
     <string name="settings_info_source_subtitle">このプロジェクトのソースコードを表示する</string>
     <string name="settings_info_libraries_title">使用するライブラリ</string>
-    <string name="settings_info_libraries_subtitle">GameNative を可能にするテクノロジーをご覧ください</string>
+    <string name="settings_info_libraries_subtitle">Frame を可能にするテクノロジーをご覧ください</string>
     <string name="settings_info_privacy_title">プライバシーポリシー</string>
-    <string name="settings_info_privacy_subtitle">GameNative\'s プライバシー ポリシーへのリンクを開きます</string>
+    <string name="settings_info_privacy_subtitle">Frame\'s プライバシー ポリシーへのリンクを開きます</string>
     <string name="settings_info_usage_analytics_title">使用状況分析</string>
     <string name="settings_info_usage_analytics_subtitle">当社は個人情報を追跡することはありません。これを無効にすると、重要でない分析は停止されますが、コアとなるゲーム パフォーマンス データは、互換性を向上させるための正当な目的として引き続き収集されます。</string>
 
@@ -1026,7 +1026,7 @@
     <string name="container_storage_unknown_error">不明なエラー</string>
 
     <!-- Login Screen -->
-    <string name="login_app_name">GameNative</string>
+    <string name="login_app_name">Frame</string>
     <string name="login_privacy_policy">プライバシーポリシー</string>
     <string name="login_welcome_back">おかえり</string>
     <string name="login_subtitle">サインインして Steam ライブラリにアクセスします</string>
@@ -1109,11 +1109,11 @@
     <!-- PluviaMain: Crash & Support -->
     <string name="main_recent_crash_title">最近のクラッシュ</string>
     <string name="main_recent_crash_message">申し訳ありません!\n\' が抱えていた最近の問題について知っていただければ幸いです。\nアプリ\'s の設定で最新のクラッシュ ログを表示およびエクスポートし、プロジェクト ZESC4ZZs リポジトリの Github の問題として添付できます。\nGithub リポジトリへのリンクも設定にあります。</string>
-    <string name="main_thank_you_title">GameNative をご利用いただきありがとうございます。</string>
+    <string name="main_thank_you_title">Frame をご利用いただきありがとうございます。</string>
     <string name="main_thank_you_message">アプリを友達と共有するか、Ko-fi のメンバーになることで、Android でのオープンソース PC ゲームをサポートします。</string>
     <string name="main_join_kofi">Ko-fi に参加する</string>
     <string name="main_share">共有</string>
-    <string name="main_share_text">GameNative をチェックしてください - クラウド セーブを完全にサポートし、Android で PC Steam ゲームをプレイしましょう!\nhttps://gamenative.app\nコミュニティに参加してください: https://discord.gg/2hKv4VfZfE</string>
+    <string name="main_share_text">Frame をチェックしてください - クラウド セーブを完全にサポートし、Android で PC Steam ゲームをプレイしましょう!\nhttps://gamenative.app\nコミュニティに参加してください: https://discord.gg/2hKv4VfZfE</string>
     <string name="main_discord_support_title">ゲームはうまくいきましたか？</string>
     <string name="main_discord_support_message">Discord に参加して、ゲームを修正したりパフォーマンスを向上させるためのサポートを受けてください。</string>
     <string name="main_open_discord">Discordを開く</string>
@@ -1409,7 +1409,7 @@
     <string name="wine_proton_install_failed">インストールに失敗しました: %s</string>
     <string name="wine_proton_install_error">インストールエラー: %s</string>
     <string name="wine_proton_install_success">%1$s %2$s は正常にインストールされました</string>
-    <string name="wine_proton_glibc_incompatible">この Wine/Proton ビルドには GLIBC コンテナが必要であり、GameNative とは互換性がありません。 ARM64/bionic ビルドのみを使用してください。</string>
+    <string name="wine_proton_glibc_incompatible">この Wine/Proton ビルドには GLIBC コンテナが必要であり、Frame とは互換性がありません。 ARM64/bionic ビルドのみを使用してください。</string>
     <string name="wine_proton_containers_in_use">このバージョンを使用するコンテナ:</string>
     <string name="wine_proton_no_containers_warning">現在、このバージョンを使用しているコンテナはありません。</string>
     <string name="wine_proton_containers_will_break">続行すると、これらのコンテナは機能しなくなります。</string>
@@ -1505,7 +1505,7 @@
     <!-- Recommendations -->
     <string name="recommended_badge">推奨</string>
     <string name="recommended_buy_button">それをチェックしてください</string>
-    <string name="recommended_support_message">このリンクから購入すると、GameNative の開発をサポートできます。</string>
+    <string name="recommended_support_message">このリンクから購入すると、Frame の開発をサポートできます。</string>
     <string name="recommended_about_heading">このゲームについて</string>
     <string name="recommended_review_count">%1$s のレビューに基づく</string>
     <string name="review_overwhelmingly_positive">圧倒的にポジティブ</string>
@@ -1530,7 +1530,7 @@
     <string name="lsfg_installing">Lossless Scaling をダウンロード中…</string>
     <string name="lsfg_performance_mode_desc">スループットを上げるために品質を下げる</string>
     <string name="settings_interface_show_recommendations_title">ゲームのおすすめを表示</string>
-    <string name="settings_interface_show_recommendations_subtitle">厳選されたインディー ゲームのおすすめをライブラリに表示します。これをオンにしておくと、インディー開発者と GameNative のサポートに役立ちます。</string>
+    <string name="settings_interface_show_recommendations_subtitle">厳選されたインディー ゲームのおすすめをライブラリに表示します。これをオンにしておくと、インディー開発者と Frame のサポートに役立ちます。</string>
     <!-- Game Launch Tips -->
     <string name="game_launch_tip_1">初回起動時は起動に数分かかる場合があります</string>
     <string name="game_launch_tip_2">ヒント: ゲーム設定で \"%s\" を押すと、ゲーム ファイルを表示できます。</string>

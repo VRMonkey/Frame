@@ -1,5 +1,5 @@
 ﻿<resources>
-    <string name="app_name">GameNative</string>
+    <string name="app_name">Frame</string>
     <string name="login_user">Autentificare utilizator</string>
     <string name="login_2fa">Autentificare în doi pași</string>
     <string name="home">Acasă</string>
@@ -961,9 +961,9 @@
 	<string name="settings_info_source_title">Cod sursă</string>
 	<string name="settings_info_source_subtitle">Vezi codul sursă al acestui proiect</string>
 	<string name="settings_info_libraries_title">Biblioteci utilizate</string>
-	<string name="settings_info_libraries_subtitle">Vezi tehnologiile care fac GameNative posibil</string>
+	<string name="settings_info_libraries_subtitle">Vezi tehnologiile care fac Frame posibil</string>
 	<string name="settings_info_privacy_title">Politica de confidențialitate</string>
-	<string name="settings_info_privacy_subtitle">Deschide linkul către politica de confidențialitate GameNative</string>
+	<string name="settings_info_privacy_subtitle">Deschide linkul către politica de confidențialitate Frame</string>
 	<string name="settings_info_usage_analytics_title">Analiză utilizare</string>
 	<string name="settings_info_usage_analytics_subtitle">Nu urmărim niciodată informații personale. Dezactivarea oprește analizele neesențiale, însă datele de bază privind performanța jocurilor sunt în continuare colectate ca interes legitim pentru a îmbunătăți compatibilitatea.</string>
 
@@ -993,7 +993,7 @@
 	<string name="settings_downloads_title">Descărcări</string>
 
 	<!-- Login Screen -->
-	<string name="login_app_name">GameNative</string>
+	<string name="login_app_name">Frame</string>
 	<string name="login_privacy_policy">Politica de confidențialitate</string>
 	<string name="login_welcome_back">Bine ai revenit</string>
 	<string name="login_subtitle">Autentifică-te pentru a accesa biblioteca ta Steam</string>
@@ -1071,11 +1071,11 @@
 	<!-- PluviaMain: Crash & Support -->
 	<string name="main_recent_crash_title">Crash recent</string>
 	<string name="main_recent_crash_message">Ne pare rău!\nAr fi util să știm ce problemă ai întâmpinat.\nPoți vizualiza și exporta cel mai recent crash log din setările aplicației și îl poți atașa ca issue pe Github în repository-ul proiectului.\nLinkul către repo este tot în setări!</string>
-	<string name="main_thank_you_title">Mulțumim că folosești GameNative!</string>
+	<string name="main_thank_you_title">Mulțumim că folosești Frame!</string>
 	<string name="main_thank_you_message">Susține gaming-ul open‑source pe Android distribuind aplicația prietenilor sau devenind membru pe Ko‑fi.</string>
 	<string name="main_join_kofi">Alătură-te pe Ko‑fi</string>
 	<string name="main_share">Distribuie</string>
-	<string name="main_share_text">Descoperă GameNative - joacă jocurile tale Steam pe PC pe Android, cu suport complet pentru salvări în cloud!\nhttps://gamenative.app\nAlătură-te comunității: https://discord.gg/2hKv4VfZfE</string>
+	<string name="main_share_text">Descoperă Frame - joacă jocurile tale Steam pe PC pe Android, cu suport complet pentru salvări în cloud!\nhttps://gamenative.app\nAlătură-te comunității: https://discord.gg/2hKv4VfZfE</string>
 	<string name="main_discord_support_title">A funcționat jocul?</string>
 	<string name="main_discord_support_message">Alătură-te serverului de Discord pentru suport și optimizare.</string>
 	<string name="main_open_discord">Deschide Discord</string>
@@ -1356,7 +1356,7 @@
 	<string name="wine_proton_install_failed">Instalare eșuată: %s</string>
 	<string name="wine_proton_install_error">Eroare la instalare: %s</string>
 	<string name="wine_proton_install_success">%1$s %2$s instalat cu succes</string>
-	<string name="wine_proton_glibc_incompatible">Această versiune Wine/Proton necesită containere GLIBC și nu este compatibilă cu GameNative. Folosește doar build-uri ARM64/Bionic.</string>
+	<string name="wine_proton_glibc_incompatible">Această versiune Wine/Proton necesită containere GLIBC și nu este compatibilă cu Frame. Folosește doar build-uri ARM64/Bionic.</string>
 	<string name="wine_proton_containers_in_use">Containere care folosesc această versiune:</string>
 	<string name="wine_proton_no_containers_warning">Niciun container nu folosește această versiune.</string>
 	<string name="wine_proton_containers_will_break">Aceste containere nu vor mai funcționa dacă continui:</string>
@@ -1451,7 +1451,7 @@
     <!-- Recommendations -->
     <string name="recommended_badge">Recomandat</string>
     <string name="recommended_buy_button">Vezi jocul</string>
-    <string name="recommended_support_message">Cumpărarea prin acest link ajută la susținerea dezvoltării GameNative.</string>
+    <string name="recommended_support_message">Cumpărarea prin acest link ajută la susținerea dezvoltării Frame.</string>
     <string name="recommended_about_heading">Despre acest joc</string>
     <string name="recommended_review_count">Pe baza a %1$s recenzii</string>
     <string name="review_overwhelmingly_positive">Copleșitor de pozitiv</string>
@@ -1461,7 +1461,7 @@
     <string name="review_mostly_negative">Majoritar negativ</string>
     <string name="review_overwhelmingly_negative">Copleșitor de negativ</string>
     <string name="settings_interface_show_recommendations_title">Afișează recomandări de jocuri</string>
-    <string name="settings_interface_show_recommendations_subtitle">Afișează jocuri indie selectate în biblioteca ta. Păstrând această opțiune activată, sprijini dezvoltatorii indie și GameNative.</string>
+    <string name="settings_interface_show_recommendations_subtitle">Afișează jocuri indie selectate în biblioteca ta. Păstrând această opțiune activată, sprijini dezvoltatorii indie și Frame.</string>
      <string name="steam_save_export_success">Salvari exportate</string>
      <string name="steam_save_export_no_saves_found">Nu s-au găsit fișiere de salvare</string>
      <string name="steam_save_export_failed">Exportul salvărilor a eșuat: %s</string>

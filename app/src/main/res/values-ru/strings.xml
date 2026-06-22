@@ -85,7 +85,7 @@
     <string name="app_filter_installed">Установлено</string>
     <string name="app_filter_tool">Инструмент</string>
     <string name="app_library">Библиотека</string>
-    <string name="app_name">GameNative</string>
+    <string name="app_name">Frame</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="appearance">Внешний вид</string>
     <string name="audio_driver">Аудиодрайвер</string>
@@ -655,7 +655,7 @@ Ubuntu RootFs - releases.ubuntu.com/focal</string>
     <string name="location">Местоположение</string>
     <string name="log_out">Выход</string>
     <string name="login_2fa">Двухфакторная аутентификация</string>
-    <string name="login_app_name">GameNative</string>
+    <string name="login_app_name">Frame</string>
     <string name="login_or_sign_in_with">Или войдите через:</string>
     <string name="login_password">Пароль</string>
     <string name="login_password_hide">Скрыть пароль</string>
@@ -740,7 +740,7 @@ Ubuntu RootFs - releases.ubuntu.com/focal</string>
     <string name="main_save_conflict_upgrade_v1_title">Выберите версию сохранения</string>
     <string name="main_save_conflict_upgrade_v1_message">Мы исправили обработку путей облачных сохранений для этой игры и обнаружили различия между локальным и облачным сохранением.\n\nЛокальное сохранение:\n\t%1$s\nОблачное сохранение:\n\t%2$s</string>
     <string name="main_share">Поделиться</string>
-    <string name="main_share_text">Проверьте GameNative - играйте в ваши ПК игры Steam на Android, с полной поддержкой облачных сохранений!
+    <string name="main_share_text">Проверьте Frame - играйте в ваши ПК игры Steam на Android, с полной поддержкой облачных сохранений!
 https://gamenative.app
 Присоединитесь к сообществу: https://discord.gg/2hKv4VfZfE</string>
     <string name="main_sync_failed">Ошибка синхронизации файлов сохранений: %s.</string>
@@ -748,7 +748,7 @@ https://gamenative.app
     <string name="main_sync_in_progress_launch_anyway_message">Синхронизация облачного сохранения для этой игры уже запущена. Вы можете подождать и попробовать снова, или запустить в любом случае без синхронизации (может вызвать конфликты сохранений).</string>
     <string name="main_sync_in_progress_retry">Операция синхронизации занимает слишком много времени. Пожалуйста, попробуйте запустить игру снова через момент.</string>
     <string name="main_thank_you_message">Поддержите игры с открытым исходным кодом на Android, поделившись приложением с вашими друзьями или став членом на Ko-fi.</string>
-    <string name="main_thank_you_title">Спасибо за использование GameNative!</string>
+    <string name="main_thank_you_title">Спасибо за использование Frame!</string>
     <string name="main_update_available_message">Доступна новая версия (%1$s)!%2$s</string>
     <string name="main_update_available_title">Доступно обновление</string>
     <string name="main_update_button">Обновить</string>
@@ -1033,9 +1033,9 @@ https://gamenative.app
     <string name="settings_emulation_wine_proton_manager_title">Менеджер Wine/Proton</string>
     <string name="settings_info_ask_tip_subtitle">Предотвращает появление сообщения совета</string>
     <string name="settings_info_ask_tip_title">Спросить совет при запуске</string>
-    <string name="settings_info_libraries_subtitle">Узнайте, какие технологии делают GameNative возможным</string>
+    <string name="settings_info_libraries_subtitle">Узнайте, какие технологии делают Frame возможным</string>
     <string name="settings_info_libraries_title">Используемые библиотеки</string>
-    <string name="settings_info_privacy_subtitle">Открывает ссылку на политику конфиденциальности GameNative</string>
+    <string name="settings_info_privacy_subtitle">Открывает ссылку на политику конфиденциальности Frame</string>
     <string name="settings_info_privacy_title">Политика конфиденциальности</string>
     <string name="settings_info_usage_analytics_title">Аналитика использования</string>
     <string name="settings_info_usage_analytics_subtitle">Мы никогда не отслеживаем личную информацию. Отключение останавливает несущественную аналитику, однако основные данные о производительности игр по-прежнему собираются как законный интерес для улучшения совместимости.</string>
@@ -1319,7 +1319,7 @@ https://gamenative.app
     <string name="wine_proton_failed_file_picker">Ошибка открытия выбора файла: %s</string>
     <string name="wine_proton_file_empty">Файл пуст или не может быть прочитан</string>
     <string name="wine_proton_filename_error">Имя файла должно начинаться с \'wine\' или \'proton\' (без учёта регистра)</string>
-    <string name="wine_proton_glibc_incompatible">Эта сборка Wine/Proton требует контейнеров GLIBC и несовместима с GameNative. Пожалуйста, используйте только сборки ARM64/bionic.</string>
+    <string name="wine_proton_glibc_incompatible">Эта сборка Wine/Proton требует контейнеров GLIBC и несовместима с Frame. Пожалуйста, используйте только сборки ARM64/bionic.</string>
     <string name="wine_proton_import_package">Импортировать пакет Wine/Proton</string>
     <string name="wine_proton_import_wcp_button">Импортировать пакет .wcp</string>
     <string name="wine_proton_info_description">Импортируйте пользовательские версии Wine или Proton для контейнеров Bionic. Имя файла должно начинаться с \'wine\' или \'proton\' (без учёта регистра). Пакеты должны включать bin/, lib/ и prefixPack.txz. Все импортируемые версии совместимы только с bionic.</string>
@@ -1379,7 +1379,7 @@ https://gamenative.app
     <!-- Recommendations -->
     <string name="recommended_badge">Рекомендуемое</string>
     <string name="recommended_buy_button">Посмотреть игру</string>
-    <string name="recommended_support_message">Покупка по этой ссылке помогает поддержать разработку GameNative.</string>
+    <string name="recommended_support_message">Покупка по этой ссылке помогает поддержать разработку Frame.</string>
     <string name="recommended_about_heading">Об этой игре</string>
     <string name="recommended_review_count">На основе %1$s отзывов</string>
     <string name="review_overwhelmingly_positive">Крайне положительные</string>
@@ -1389,7 +1389,7 @@ https://gamenative.app
     <string name="review_mostly_negative">В основном отрицательные</string>
     <string name="review_overwhelmingly_negative">Крайне отрицательные</string>
     <string name="settings_interface_show_recommendations_title">Показывать рекомендации игр</string>
-    <string name="settings_interface_show_recommendations_subtitle">Показывает подобранные инди-игры в вашей библиотеке. Оставляя это включённым, вы поддерживаете инди-разработчиков и GameNative.</string>
+    <string name="settings_interface_show_recommendations_subtitle">Показывает подобранные инди-игры в вашей библиотеке. Оставляя это включённым, вы поддерживаете инди-разработчиков и Frame.</string>
      <string name="steam_save_export_success">Сохранения экспортированы</string>
      <string name="steam_save_export_no_saves_found">Сохранения не найдены</string>
      <string name="steam_save_export_failed">Не удалось экспортировать сохранения: %s</string>
